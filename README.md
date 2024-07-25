@@ -14,7 +14,7 @@
  
 <br>
 
-### Meu postifólio
+### Meu portifólio
 [Portifólio](https://niivl.github.io/Projeto-Portifolio/)
  
 ### Segue nas redes abaixo!
